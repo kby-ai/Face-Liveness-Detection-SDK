@@ -63,13 +63,12 @@ https://web.kby-ai.com
 
 ### Google Play
 
-<a href="https://play.google.com/store/apps/details?id=com.kbyai.facerecognition" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.kbyai.facelivedemo" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
 ## Download on the App Store
-
-<a href="https://apps.apple.com/us/app/kby-ai-face-recognition/id6448648922" target="_blank">
+<a href="https://apps.apple.com/us/app/face-liveness-detection/id6448392118" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/235276083-d20fe057-214d-497c-a431-4569bbeed2fe.png" height=80/>
 </a>
 
