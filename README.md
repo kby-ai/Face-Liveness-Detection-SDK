@@ -6,7 +6,7 @@
 ## Introduction
 The SDK is a 3D passive liveness detection solution that accurately detects presentation attacks, including printed photos, cutout masks, digital and video replay attacks, and 3D masks.
 
-## Face Liveness SDK(Android, iOS)
+## Face Liveness SDK(Mobile)
 
   | Basic      | Standard | Premium |
   |------------------|------------------|------------------|
@@ -29,7 +29,7 @@ The SDK is a 3D passive liveness detection solution that accurately detects pres
 > - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 > - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
 
-## Face Liveness SDK(Windows, Linux)
+## Face Liveness SDK(Server)
 
   | Features      |
   |------------------|
