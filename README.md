@@ -1,12 +1,14 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/125717930/225975240-24b9a8ad-8cc6-4d5f-9a91-1435951b0bd7.png" width="120" alt="Nest Logo" />
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
+    <img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
+  </a>  
 </p>
 
-# Face-Liveness-Detection-SDK
-## Introduction
+# Face Liveness Detection SDK
+## Overview
 The SDK is a 3D passive liveness detection solution that accurately detects presentation attacks, including printed photos, cutout masks, digital and video replay attacks, and 3D masks.
 
-## Face Liveness SDK(Mobile)
+## Face SDK(Android, iOS)
 
   | Basic      | Standard | Premium |
   |------------------|------------------|------------------|
@@ -29,7 +31,7 @@ The SDK is a 3D passive liveness detection solution that accurately detects pres
 > - [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)
 > - [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)
 
-## Face Liveness SDK(Server)
+## Face Liveness SDK(Windows, Linux)
 
   | Features      |
   |------------------|
