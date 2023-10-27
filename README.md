@@ -6,7 +6,7 @@
 
 # Face Liveness Detection SDK
 ## Overview
-The SDK is a 3D passive liveness detection solution that accurately detects presentation attacks, including printed photos, cutout masks, digital and video replay attacks, and 3D masks.
+This SDK is a powerful 3D passive liveness detection solution that accurately detects presentation attacks, including printed photos, cutout masks, digital and video replay attacks, and 3D masks.
 
 ## Documents
 Help Center: https://docs.kby-ai.com
