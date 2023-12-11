@@ -94,6 +94,8 @@ Email: contact@kby-ai.com
 
 Telegram: @kbyai
 
+Facebook: https://www.facebook.com/KBYAI
+
 WhatsApp: +19092802609
 
 Skype: live:.cid.66e2522354b1049b
