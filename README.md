@@ -11,7 +11,7 @@ This SDK is a powerful 3D passive liveness detection solution that accurately de
 ## Performance Video
 
 You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbIsA) to see how well our demo app works.</br></br>
-[![Face Recognition Android](https://img.youtube.com/vi/F7c5ZqtbIsA/0.jpg)](https://www.youtube.com/watch?v=F7c5ZqtbIsA)
+[![Face Liveness Detection](https://img.youtube.com/vi/F7c5ZqtbIsA/0.jpg)](https://www.youtube.com/watch?v=F7c5ZqtbIsA)
 
 ## Documents
 Help Center: https://docs.kby-ai.com
