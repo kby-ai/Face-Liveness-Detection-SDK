@@ -8,6 +8,11 @@
 ## Overview
 This SDK is a powerful 3D passive liveness detection solution that accurately detects presentation attacks, including printed photos, cutout masks, digital and video replay attacks, and 3D masks.
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbIsA) to see how well our demo app works.</br></br>
+[![Face Recognition Android](https://img.youtube.com/vi/F7c5ZqtbIsA/0.jpg)](https://www.youtube.com/watch?v=F7c5ZqtbIsA)
+
 ## Documents
 Help Center: https://docs.kby-ai.com
 
@@ -60,11 +65,6 @@ Help Center: https://docs.kby-ai.com
 > [FaceLivenessDetection-Docker](https://github.com/kby-ai/FaceLivenessDetection-Docker)
 > 
 > [FaceLivenessDetection-Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)
-
-## Performance Video
-
-You can visit our YouTube video [here](https://www.youtube.com/watch?v=F7c5ZqtbIsA) to see how well our demo app works.</br></br>
-[![Face Recognition Android](https://img.youtube.com/vi/F7c5ZqtbIsA/0.jpg)](https://www.youtube.com/watch?v=F7c5ZqtbIsA)
 
 ## Try Online
 https://web.kby-ai.com
