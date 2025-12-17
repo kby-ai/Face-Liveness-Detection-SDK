@@ -105,7 +105,7 @@ https://web.kby-ai.com
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
-🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
+🧙`Discord:` [KBY-AI](https://discord.gg/vBUMRJJe)</br>
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFace-Liveness-Detection-SDK&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFace-Liveness-Detection-SDK)
