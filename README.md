@@ -104,7 +104,7 @@ https://web.kby-ai.com
 #### Please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
-🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
+🧙`WhatsApp:` [+13348402323](https://wa.me/+13348402323)</br>
 🧙`Discord:` [KBY-AI](https://discord.gg/vBUMRJJe)</br>
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
 
