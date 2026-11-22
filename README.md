@@ -103,9 +103,8 @@ https://web.kby-ai.com
 
 #### Please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
-🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
-🧙`WhatsApp:` [+13348402323](https://wa.me/+13348402323)</br>
-🧙`Discord:` [KBY-AI](https://discord.gg/vBUMRJJe)</br>
-🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
+🧙`Telegram:` [@kbyaisupport](https://t.me/kbyaisupport)</br>
+🧙`WhatsApp:` [+1 (334) 840-2323](https://wa.me/+13348402323)</br>
+🧙`Discord:` [KBY-AI Community](https://discord.gg/dRQgmnEDR)</br>
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFace-Liveness-Detection-SDK&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFace-Liveness-Detection-SDK)
